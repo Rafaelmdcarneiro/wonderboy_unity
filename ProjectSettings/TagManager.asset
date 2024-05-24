@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Fruit
+  - Boulder
+  - Egg
+  - Sign
+  - Goal
+  - Spring
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background TM
+  - Foreground
+  - Player
+  - Ground TM
+  - Weapon
+  - Enemy
+  - Obstacle
+  - DeathObstacle
+  - Debug
+  - Fruit
+  - Item
+  - Dead
+  - Score
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SL Background
+    uniqueID: 2080254573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacles
+    uniqueID: 909321859
+    locked: 0
+  - name: Ground
+    uniqueID: 689260337
+    locked: 0
+  - name: Score
+    uniqueID: 16449117
+    locked: 0
